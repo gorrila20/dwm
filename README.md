@@ -1,2 +1,3 @@
-# dwm
-My dwm build
+# mydwm
+**My dwm config**
+_welcome_
